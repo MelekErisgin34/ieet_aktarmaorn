@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Iett-Aktarma-Bakiye\Iett-Aktarma-Bakiye\bin\Debug\Iett-Aktarma-Bakiye.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Iett-Aktarma-Bakiye\Iett-Aktarma-Bakiye\bin\Debug\Iett-Aktarma-Bakiye.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Iett-Aktarma-Bakiye\Iett-Aktarma-Bakiye\bin\Debug\Iett-Aktarma-Bakiye.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Iett-Aktarma-Bakiye\Iett-Aktarma-Bakiye\obj\Debug\Iett-Aktarma-Bakiye.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Iett-Aktarma-Bakiye\Iett-Aktarma-Bakiye\obj\Debug\Iett-Aktarma-Bakiye.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Iett-Aktarma-Bakiye\Iett-Aktarma-Bakiye\obj\Debug\Iett_Aktarma_Bakiye.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Iett-Aktarma-Bakiye\Iett-Aktarma-Bakiye\obj\Debug\Iett_Aktarma_Bakiye.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Iett-Aktarma-Bakiye\Iett-Aktarma-Bakiye\obj\Debug\Iett-Aktarma-Bakiye.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Iett-Aktarma-Bakiye\Iett-Aktarma-Bakiye\obj\Debug\Iett-Aktarma-Bakiye.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Iett-Aktarma-Bakiye\Iett-Aktarma-Bakiye\obj\Debug\Iett-Aktarma-Bakiye.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Iett-Aktarma-Bakiye\Iett-Aktarma-Bakiye\obj\Debug\Iett-Aktarma-Bakiye.pdb
